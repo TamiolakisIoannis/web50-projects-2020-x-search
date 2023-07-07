@@ -1,0 +1,12 @@
+#keno{
+    position: absolute;
+    left: 200px;
+    right:15%;
+}
+div{
+    margin: 5px;
+}
+#btn{
+    background-color:Blue;
+    color:white;
+}
